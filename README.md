@@ -5,4 +5,8 @@ step 1 :
 download xamp app and install it in to your computer.
   resource : https://www.apachefriends.org/download.html
 
+step 2 :
+  download the  github desktop app.
+    resource : https://desktop.github.com/download/
+
 
