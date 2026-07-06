@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TempleManagmentSystem</RootNamespace>
+    <AssemblyName>TempleManagmentSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\AuthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AuthForm.Designer.cs">
+      <DependentUpon>AuthForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DatabaseHelper.cs" />
+    <Compile Include="Forms\AllDanaofferingView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AllDanaofferingView.Designer.cs">
+      <DependentUpon>AllDanaofferingView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AllDonorsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AllDonorsView.Designer.cs">
+      <DependentUpon>AllDonorsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CeremonyEvent.cs" />
+    <Compile Include="Forms\DanaApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DanaApproval.Designer.cs">
+      <DependentUpon>DanaApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DanaRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DanaRequest.Designer.cs">
+      <DependentUpon>DanaRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dashboard_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dashboard_Admin.Designer.cs">
+      <DependentUpon>Dashboard_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Day_Reminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Day_Reminder.Designer.cs">
+      <DependentUpon>Day_Reminder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DBConfig.cs" />
+    <Compile Include="Forms\DhammaEvent.cs" />
+    <Compile Include="Forms\DonorInsideDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DonorInsideDashboard.Designer.cs">
+      <DependentUpon>DonorInsideDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Donor_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Donor_dashboard.Designer.cs">
+      <DependentUpon>Donor_dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EventManager.cs" />
+    <Compile Include="Forms\EventRepository.cs" />
+    <Compile Include="Forms\frmAddEditEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddEditEvent.Designer.cs">
+      <DependentUpon>frmAddEditEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEventDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEventDetail.Designer.cs">
+      <DependentUpon>frmEventDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEventList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEventList.Designer.cs">
+      <DependentUpon>frmEventList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InsideAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InsideAdminDashboard.Designer.cs">
+      <DependentUpon>InsideAdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MyDanaRequestAndMyDanaOffering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MyDanaRequestAndMyDanaOffering.Designer.cs">
+      <DependentUpon>MyDanaRequestAndMyDanaOffering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Reminder_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Reminder_Add.Designer.cs">
+      <DependentUpon>Reminder_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Reminder_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Reminder_Delete.Designer.cs">
+      <DependentUpon>Reminder_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\SpecialEvent.cs" />
+    <Compile Include="Forms\TempleEvent.cs" />
+    <Compile Include="Forms\TempleManagementDBDataSet.Designer.cs" />
+    <Compile Include="Forms\TempleTheme.cs" />
+    <Compile Include="Forms\Visitor_Management_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Visitor_Management_Admin.Designer.cs">
+      <DependentUpon>Visitor_Management_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Visitor_Visits_visitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Visitor_Visits_visitor.Designer.cs">
+      <DependentUpon>Visitor_Visits_visitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DanaOfferings.cs" />
+    <Compile Include="Model\DanaRequest.cs" />
+    <Compile Include="Model\Donor.cs" />
+    <Compile Include="Model\MealArrangement.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Resources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Resources.Designer.cs">
+      <DependentUpon>Resources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service\DanaOfferingService.cs" />
+    <Compile Include="Service\DanaRequestService.cs" />
+    <Compile Include="Service\DonorService.cs" />
+    <Compile Include="TempleManagementDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TempleManagementDBDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TempleManagementDBDataSet8.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".vs\CopilotSnapshots\61D4EFEF50E6C845985803EA673B7DCD\22DA612AA1EA94428B6A97BBBDAECD8A\1C9AB4B3E7E6AF9DA0942C9458D04BB3" />
+    <None Include=".vs\CopilotSnapshots\61D4EFEF50E6C845985803EA673B7DCD\22DA612AA1EA94428B6A97BBBDAECD8A\2180312785509F4EB6952EE9F925E235" />
+    <None Include=".vs\CopilotSnapshots\61D4EFEF50E6C845985803EA673B7DCD\22DA612AA1EA94428B6A97BBBDAECD8A\9A53FF27C0F40A253BF639E4E96E54CB" />
+    <None Include=".vs\CopilotSnapshots\61D4EFEF50E6C845985803EA673B7DCD\22DA612AA1EA94428B6A97BBBDAECD8A\BB149B19F48F3BE6BC89C75C357A3518" />
+    <None Include=".vs\CopilotSnapshots\61D4EFEF50E6C845985803EA673B7DCD\state.mpack" />
+    <None Include=".vs\TempleManagmentSystem.slnx\copilot-chat\cf4fd9a9\sessions\242a59ac-06c1-43ad-a18b-728f0ca2892a" />
+    <None Include=".vs\TempleManagmentSystem.slnx\copilot-chat\cf4fd9a9\sessions\32c5d0d6-3771-4b13-a842-91c2884a96b1" />
+    <None Include=".vs\TempleManagmentSystem.slnx\copilot-chat\cf4fd9a9\sessions\efefd461-e650-45c8-9858-03ea673b7dcd" />
+    <None Include=".vs\TempleManagmentSystem.slnx\FileContentIndex\20bd2210-e1f0-4963-a5c5-792107625526.vsidx" />
+    <None Include=".vs\TempleManagmentSystem.slnx\FileContentIndex\37664528-f5f8-4999-91fd-a2fd72546696.vsidx" />
+    <None Include=".vs\TempleManagmentSystem.slnx\FileContentIndex\85ea2282-ed72-432a-bf75-5e1cfcd7a9d4.vsidx" />
+    <None Include=".vs\TempleManagmentSystem.slnx\FileContentIndex\87b74cb2-0925-4e23-95a8-f5df936e040b.vsidx" />
+    <None Include=".vs\TempleManagmentSystem.slnx\FileContentIndex\cb66fe13-65e6-4844-bce9-3ab0ed08c6c8.vsidx" />
+    <None Include=".vs\TempleManagmentSystem.slnx\v18\DocumentLayout.backup.json" />
+    <None Include=".vs\TempleManagmentSystem.slnx\v18\DocumentLayout.json" />
+    <None Include=".vs\TempleManagmentSystem.slnx\v18\ResourceExplorer\settings.json" />
+    <None Include="App.config" />
+    <None Include="bin\Debug\TempleManagmentSystem.exe.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TempleManagementDBDataSet.xsc">
+      <DependentUpon>TempleManagementDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet.xss">
+      <DependentUpon>TempleManagementDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet1.xsc">
+      <DependentUpon>TempleManagementDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet1.xss">
+      <DependentUpon>TempleManagementDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet2.xsc">
+      <DependentUpon>TempleManagementDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet2.xss">
+      <DependentUpon>TempleManagementDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet3.xsc">
+      <DependentUpon>TempleManagementDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet3.xss">
+      <DependentUpon>TempleManagementDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet4.xsc">
+      <DependentUpon>TempleManagementDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet4.xss">
+      <DependentUpon>TempleManagementDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet5.xsc">
+      <DependentUpon>TempleManagementDBDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet5.xss">
+      <DependentUpon>TempleManagementDBDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet6.xsc">
+      <DependentUpon>TempleManagementDBDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet6.xss">
+      <DependentUpon>TempleManagementDBDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet7.xsc">
+      <DependentUpon>TempleManagementDBDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet7.xss">
+      <DependentUpon>TempleManagementDBDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet8.xsc">
+      <DependentUpon>TempleManagementDBDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="TempleManagementDBDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TempleManagementDBDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TempleManagementDBDataSet8.xss">
+      <DependentUpon>TempleManagementDBDataSet8.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\AllDanaofferingView.resx">
+      <DependentUpon>AllDanaofferingView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AllDonorsView.resx">
+      <DependentUpon>AllDonorsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AuthForm.resx">
+      <DependentUpon>AuthForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DanaApproval.resx">
+      <DependentUpon>DanaApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DanaRequest.resx">
+      <DependentUpon>DanaRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dashboard_Admin.resx">
+      <DependentUpon>Dashboard_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Day_Reminder.resx">
+      <DependentUpon>Day_Reminder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DonorInsideDashboard.resx">
+      <DependentUpon>DonorInsideDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Donor_dashboard.resx">
+      <DependentUpon>Donor_dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddEditEvent.resx">
+      <DependentUpon>frmAddEditEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEventDetail.resx">
+      <DependentUpon>frmEventDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEventList.resx">
+      <DependentUpon>frmEventList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InsideAdminDashboard.resx">
+      <DependentUpon>InsideAdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MyDanaRequestAndMyDanaOffering.resx">
+      <DependentUpon>MyDanaRequestAndMyDanaOffering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Reminder_Add.resx">
+      <DependentUpon>Reminder_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Reminder_Delete.resx">
+      <DependentUpon>Reminder_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Visitor_Management_Admin.resx">
+      <DependentUpon>Visitor_Management_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Visitor_Visits_visitor.resx">
+      <DependentUpon>Visitor_Visits_visitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagmentSystem.Day_Reminder.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagmentSystem.Donor_dashboard.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagmentSystem.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagmentSystem.Reminder_Add.resources" />
+    <EmbeddedResource Include="obj\Debug\TempleManagmentSystem.Reminder_Delete.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Resources.resx">
+      <DependentUpon>Resources.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".vs\TempleManagmentSystem.slnx\v18\HierarchyCache.v1.txt" />
+    <Content Include="bin\Debug\TempleManagmentSystem.exe" />
+    <Content Include="bin\Debug\TempleManagmentSystem.pdb" />
+    <Content Include="obj\Debug\TempleManagmentSystem.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\TempleManagmentSystem.exe" />
+    <Content Include="obj\Debug\TempleManagmentSystem.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet1.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet2.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet3.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet4.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet5.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet6.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet7.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\TempleManagementDBDataSet8.Designer.cs.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\TempleManagmentSystem\CopilotIndices\18.7.1244.59975\" />
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
