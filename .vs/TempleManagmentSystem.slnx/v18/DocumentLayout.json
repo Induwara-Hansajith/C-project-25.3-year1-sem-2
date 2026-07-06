@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c#ongoing\\output\\templemanagmentsystem\\templemanagmentsystem\\forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c#ongoing\\output\\templemanagmentsystem\\templemanagmentsystem\\forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day_Reminder.cs",
+              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs",
+              "RelativeDocumentMoniker": "Forms\\Day_Reminder.cs",
+              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs",
+              "RelativeToolTip": "Forms\\Day_Reminder.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAlwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T17:56:18.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day_Reminder.cs [Design]",
+              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs",
+              "RelativeDocumentMoniker": "Forms\\Day_Reminder.cs",
+              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs [Design]",
+              "RelativeToolTip": "Forms\\Day_Reminder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T17:56:14.237Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
