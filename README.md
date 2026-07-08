@@ -18,6 +18,13 @@ Step 4 :
 Step 5 : 
   start working on the project with your part with pre-made file structure.
 
+Step 6 :
+  Download the Microsoft SQL server and setup it on your machine.
+    resource : https://youtu.be/Tsbm11I04xI?si=knILbQqS3Cjkq2UM
+
+# Create Your First C# Windows Forms Application using Visual Studio
+  resource : https://youtu.be/JSJ1JI2alJg
+
 
 
 
