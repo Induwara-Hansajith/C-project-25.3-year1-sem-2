@@ -29,5 +29,10 @@ Step 7 : Open the TempleManagementDB_FINAL (1).sql file which is inside SQL serv
   resource : https://youtu.be/JSJ1JI2alJg
 
 
+// IMPORTANT \\
+
+when you run the application (if you run it through the .slnx file) sometimes it can be occur some errors and if you face such an issue please ignore it and run the previous build.
+
+
 
 
