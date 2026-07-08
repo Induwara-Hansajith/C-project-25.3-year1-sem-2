@@ -204,10 +204,5 @@ namespace TempleManagementSystem.EventManagement
         {
             this.DialogResult = DialogResult.Cancel;
         }
-
-        private void frmAddEditEvent_Load_1(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c#ongoing\\output\\templemanagmentsystem\\templemanagmentsystem\\forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c#ongoing\\output\\templemanagmentsystem\\templemanagmentsystem\\forms\\frmaddeditevent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\frmaddeditevent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c#ongoing\\output\\templemanagmentsystem\\templemanagmentsystem\\forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\day_reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\forms\\frmaddeditevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\frmaddeditevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\forms\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Day_Reminder.cs",
-              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs",
-              "RelativeDocumentMoniker": "Forms\\Day_Reminder.cs",
-              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs",
-              "RelativeToolTip": "Forms\\Day_Reminder.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAlwCoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmAddEditEvent.Designer.cs",
+              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmAddEditEvent.Designer.cs",
+              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.Designer.cs",
+              "RelativeToolTip": "Forms\\frmAddEditEvent.Designer.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAADwvwwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T17:56:18.246Z",
+              "WhenOpened": "2026-07-07T03:58:43.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Day_Reminder.cs [Design]",
-              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs",
-              "RelativeDocumentMoniker": "Forms\\Day_Reminder.cs",
-              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\Day_Reminder.cs [Design]",
-              "RelativeToolTip": "Forms\\Day_Reminder.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmAddEditEvent.cs [Design]",
+              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.cs",
+              "RelativeDocumentMoniker": "Forms\\frmAddEditEvent.cs",
+              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.cs [Design]",
+              "RelativeToolTip": "Forms\\frmAddEditEvent.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T17:56:14.237Z",
+              "WhenOpened": "2026-07-07T03:58:33.044Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEventDetail.cs [Design]",
+              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmEventDetail.cs",
+              "RelativeDocumentMoniker": "Forms\\frmEventDetail.cs",
+              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmEventDetail.cs [Design]",
+              "RelativeToolTip": "Forms\\frmEventDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:58:30.188Z"
             }
           ]
         }
