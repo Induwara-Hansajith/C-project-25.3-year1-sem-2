@@ -22,6 +22,9 @@ Step 6 :
   Download the Microsoft SQL server and setup it on your machine.
     resource : https://youtu.be/Tsbm11I04xI?si=knILbQqS3Cjkq2UM
 
+Step 7 : Open the TempleManagementDB_FINAL (1).sql file which is inside SQL server file folder and open it through MS SQL server and setup the SQL server.
+  resource : resource : https://youtu.be/Tsbm11I04xI?si=knILbQqS3Cjkq2UM
+
 # Create Your First C# Windows Forms Application using Visual Studio
   resource : https://youtu.be/JSJ1JI2alJg
 
