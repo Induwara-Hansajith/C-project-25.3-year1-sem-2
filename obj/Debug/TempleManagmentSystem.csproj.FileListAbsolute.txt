@@ -1,222 +1,28 @@
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\Users\ckavi\OneDrive\Desktop\Dashboard\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-D:\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-D:\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-D:\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C# project\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\C#Hansajith pro\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\C#Hansajith pro v2\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Management_Admin.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Visits_visitor.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\C#complete partial pro v3\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Management_Admin.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Visits_visitor.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\output\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Management_Admin.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Visits_visitor.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Resources.resources
-C:\C#ongoing\output\C#complete partial pro v5(setting_update)\C#complete partial pro v4\C#complete partial pro v4\C# pro\C# pro\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.AuthForm.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.AuthForm.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Management_Admin.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Visits_visitor.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Resources.resources
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-D:\C# Group Project v7(rds login fix )\C# Group Project\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe.config
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\bin\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.AuthForm.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Management_Admin.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\templemng_Demika.Visitor_Visits_visitor.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.Resources.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.exe
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagmentSystem.pdb
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmAddEditEvent.resources
-C:\C#ongoing\output\TempleManagmentSystem\TempleManagmentSystem\obj\Debug\TempleManagementSystem.EventManagement.frmEventDetail.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.csproj.AssemblyReference.cache
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.AllDanaofferingView.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.AllDonorsView.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.AuthForm.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.DanaApproval.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.DanaRequest.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Dashboard_Admin.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Day_Reminder.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.DonorInsideDashboard.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Donor_dashboard.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.EventManagement.frmAddEditEvent.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.EventManagement.frmEventDetail.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.EventManagement.frmEventList.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.InsideAdminDashboard.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagementSystem.Forms.MyDanaRequestAndMyDanaOffering.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Reminder_Add.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Reminder_Delete.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\templemng_Demika.Visitor_Management_Admin.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\templemng_Demika.Visitor_Visits_visitor.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Properties.Resources.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.Resources.resources
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.csproj.GenerateResource.cache
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.csproj.CoreCompileInputs.cache
+C:\C-_Group-AX-_project-25.3-year1-sem-2\bin\Debug\TempleManagmentSystem.exe.config
+C:\C-_Group-AX-_project-25.3-year1-sem-2\bin\Debug\TempleManagmentSystem.exe
+C:\C-_Group-AX-_project-25.3-year1-sem-2\bin\Debug\TempleManagmentSystem.pdb
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.exe
+C:\C-_Group-AX-_project-25.3-year1-sem-2\obj\Debug\TempleManagmentSystem.pdb

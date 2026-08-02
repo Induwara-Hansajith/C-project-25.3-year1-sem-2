@@ -1,17 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\",
+  "WorkspaceRootPath": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c#ongoing\\output\\templemanagmentsystem\\templemanagmentsystem\\forms\\frmaddeditevent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c-_group-ax-_project-25.3-year1-sem-2\\models\\visitors\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:models\\visitors\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c-_group-ax-_project-25.3-year1-sem-2\\models\\planner\\sacredday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:models\\planner\\sacredday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c-_group-ax-_project-25.3-year1-sem-2\\models\\events\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:models\\events\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c-_group-ax-_project-25.3-year1-sem-2\\models\\base\\templeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:models\\base\\templeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|c:\\c-_group-ax-_project-25.3-year1-sem-2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C-_Group-AX-_project-25.3-year1-sem-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C-_Group-AX-_project-25.3-year1-sem-2\\forms\\frmaddeditevent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\frmaddeditevent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\forms\\frmaddeditevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C-_Group-AX-_project-25.3-year1-sem-2\\forms\\frmaddeditevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\frmaddeditevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\forms\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|C:\\C-_Group-AX-_project-25.3-year1-sem-2\\forms\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1FA9B73-1C17-4AFA-ADEB-2430757B2D29}|TempleManagmentSystem.csproj|solutionrelative:forms\\frmeventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,40 +46,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmAddEditEvent.Designer.cs",
-              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.Designer.cs",
-              "RelativeDocumentMoniker": "Forms\\frmAddEditEvent.Designer.cs",
-              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.Designer.cs",
-              "RelativeToolTip": "Forms\\frmAddEditEvent.Designer.cs",
-              "ViewState": "AgIAAOIAAAAAAAAAAADwvwwBAAABAAAAAAAAAA==",
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Visitors\\Visitor.cs",
+              "RelativeDocumentMoniker": "Models\\Visitors\\Visitor.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Visitors\\Visitor.cs",
+              "RelativeToolTip": "Models\\Visitors\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T03:58:43.614Z",
+              "WhenOpened": "2026-08-02T03:48:04.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmAddEditEvent.cs [Design]",
-              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.cs",
-              "RelativeDocumentMoniker": "Forms\\frmAddEditEvent.cs",
-              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmAddEditEvent.cs [Design]",
-              "RelativeToolTip": "Forms\\frmAddEditEvent.cs [Design]",
+              "Title": "SacredDay.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Planner\\SacredDay.cs",
+              "RelativeDocumentMoniker": "Models\\Planner\\SacredDay.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Planner\\SacredDay.cs",
+              "RelativeToolTip": "Models\\Planner\\SacredDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T03:58:33.044Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-08-02T03:47:50.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Events\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Events\\Event.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Events\\Event.cs",
+              "RelativeToolTip": "Models\\Events\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:47:29.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TempleEntity.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Base\\TempleEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\TempleEntity.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Models\\Base\\TempleEntity.cs",
+              "RelativeToolTip": "Models\\Base\\TempleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:46:47.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-01T18:15:36.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T18:15:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAddEditEvent.Designer.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Forms\\frmAddEditEvent.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmAddEditEvent.Designer.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Forms\\frmAddEditEvent.Designer.cs",
+              "RelativeToolTip": "Forms\\frmAddEditEvent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:58:43.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAddEditEvent.cs [Design]",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Forms\\frmAddEditEvent.cs",
+              "RelativeDocumentMoniker": "Forms\\frmAddEditEvent.cs",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Forms\\frmAddEditEvent.cs [Design]",
+              "RelativeToolTip": "Forms\\frmAddEditEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T03:58:33.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmEventDetail.cs [Design]",
-              "DocumentMoniker": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmEventDetail.cs",
+              "DocumentMoniker": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Forms\\frmEventDetail.cs",
               "RelativeDocumentMoniker": "Forms\\frmEventDetail.cs",
-              "ToolTip": "C:\\C#ongoing\\output\\TempleManagmentSystem\\TempleManagmentSystem\\Forms\\frmEventDetail.cs [Design]",
+              "ToolTip": "C:\\C-_Group-AX-_project-25.3-year1-sem-2\\Forms\\frmEventDetail.cs [Design]",
               "RelativeToolTip": "Forms\\frmEventDetail.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T03:58:30.188Z"

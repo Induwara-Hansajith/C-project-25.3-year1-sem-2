@@ -1,3 +1,5 @@
+using System;
+
 namespace TempleManagementSystem.Models.Base
 {
     public abstract class TempleEntity

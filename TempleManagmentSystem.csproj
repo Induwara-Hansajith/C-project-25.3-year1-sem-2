@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -170,6 +171,16 @@
     <Compile Include="Forms\Visitor_Visits_visitor.Designer.cs">
       <DependentUpon>Visitor_Visits_visitor.cs</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\IReportable.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Models\Base\TempleEntity.cs" />
+    <Compile Include="Models\Events\CommunityEvent.cs" />
+    <Compile Include="Models\Events\Event.cs" />
+    <Compile Include="Models\Events\RitualEvent.cs" />
+    <Compile Include="Models\Offerings\DanaOffering.cs" />
+    <Compile Include="Models\Planner\SacredDay.cs" />
+    <Compile Include="Models\Resources\Resource.cs" />
+    <Compile Include="Models\Visitors\Visitor.cs" />
     <Compile Include="Model\DanaOfferings.cs" />
     <Compile Include="Model\DanaRequest.cs" />
     <Compile Include="Model\Donor.cs" />
@@ -194,6 +205,11 @@
     <Compile Include="Forms\Resources.Designer.cs">
       <DependentUpon>Resources.cs</DependentUpon>
     </Compile>
+    <Compile Include="Services\EventService.cs" />
+    <Compile Include="Services\OfferingService.cs" />
+    <Compile Include="Services\PlannerService.cs" />
+    <Compile Include="Services\ResourceService.cs" />
+    <Compile Include="Services\VisitorService.cs" />
     <Compile Include="Service\DanaOfferingService.cs" />
     <Compile Include="Service\DanaRequestService.cs" />
     <Compile Include="Service\DonorService.cs" />
@@ -242,6 +258,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>TempleManagementDBDataSet8.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Utils\ConsoleHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".vs\CopilotSnapshots\61D4EFEF50E6C845985803EA673B7DCD\22DA612AA1EA94428B6A97BBBDAECD8A\1C9AB4B3E7E6AF9DA0942C9458D04BB3" />
@@ -370,6 +387,7 @@
     <None Include="TempleManagementDBDataSet8.xss">
       <DependentUpon>TempleManagementDBDataSet8.xsd</DependentUpon>
     </None>
+    <None Include="TempleManagementSystem.csproj" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Forms\AllDanaofferingView.resx">

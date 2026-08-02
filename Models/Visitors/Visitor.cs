@@ -1,3 +1,4 @@
+using System;
 using TempleManagementSystem.Models.Base;
 
 namespace TempleManagementSystem.Models.Visitors
